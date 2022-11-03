@@ -1,0 +1,15 @@
+button {
+    font-size: 35px;
+    border: none;
+    color: rgb(21, 117, 186);
+    background-color: rgb(204, 255, 3);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
