@@ -24,4 +24,4 @@ btn.addEventListener('click', async function getPokemon() {
 function pick(arr){
     const rand = Math.floor(Math.random() * arr.length);
     return arr[rand];
-}
+};
